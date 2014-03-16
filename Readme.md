@@ -4,6 +4,11 @@ Code guides, style guides on GitHub.
 
 ### Lists
 
+#### A guide for programming in style
+
+- By thoughtbot
+- [start reading](https://github.com/thoughtbot/guides/blob/master/README.md)
+- [repo](https://github.com/thoughtbot/guides)
 
 #### HTML and CSS
 
