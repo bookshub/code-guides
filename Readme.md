@@ -26,3 +26,19 @@ Code guides, style guides on GitHub.
 - By [airbnb](https://github.com/airbnb)
 - [start reading](http://airbnb.github.io/javascript/)
 - [repo](https://github.com/airbnb/javascript)
+
+
+#### Ruby and Rails
+
+##### A community-driven Rails 3 & 4 style guide
+
+- By [bbatsov](https://github.com/bbatsov)
+- [start reading](https://github.com/bbatsov/rails-style-guide)
+- [repo](https://github.com/bbatsov/rails-style-guide)
+
+##### A community-driven Ruby coding style guide
+
+
+- By [bbatsov](https://github.com/bbatsov)
+- [start reading](https://github.com/bbatsov/ruby-style-guide)
+- [repo](https://github.com/bbatsov/ruby-style-guide)
