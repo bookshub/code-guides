@@ -4,6 +4,12 @@ Code guides, style guides on GitHub.
 
 ### Lists
 
+#### git - the simple guide
+
+- By [Roger Dudler](http://www.twitter.com/rogerdudler)
+- [start reading](http://rogerdudler.github.io/git-guide/)
+- [repo](https://github.com/rogerdudler/git-guide)
+
 #### A guide for programming in style
 
 - By thoughtbot
