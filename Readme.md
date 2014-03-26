@@ -18,6 +18,12 @@ Code guides, style guides on GitHub.
 
 #### HTML and CSS
 
+##### WTF, HTML and CSS?
+
+- By [mdo](https://github.com/mdo)
+- [start reading](http://wtfhtmlcss.com/)
+- [repo](https://github.com/mdo/wtf-html-css)
+
 ##### Standards for flexible, durable, and sustainable HTML and CSS.
 
 - By [mdo](https://github.com/mdo)
