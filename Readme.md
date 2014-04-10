@@ -50,7 +50,10 @@ Code guides, style guides on GitHub.
 
 ##### A community-driven Ruby coding style guide
 
-
 - By [bbatsov](https://github.com/bbatsov)
 - [start reading](https://github.com/bbatsov/ruby-style-guide)
 - [repo](https://github.com/bbatsov/ruby-style-guide)
+
+#### Google Style guides
+
+- [start reading](https://code.google.com/p/google-styleguide/)
